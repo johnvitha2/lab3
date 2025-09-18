@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+#paragraph {
+  border: 2px solid black;
+  padding: 15px;
+  width: 300px;
+  text-align: center;
+}
+
+input {
+  margin: 4px 0;
+  width: 60px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 5px 10px;
+}
